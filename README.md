@@ -106,5 +106,5 @@ Finally,
 
 # Gallery
 
-![Arduino with Prototyping shield and GY521](pic1.JPEG)
+<img src="https://github.com/amannirala13/Arduino-NodeJS-360-Video-Player/blob/main/pic1.jpeg" alt="Arduino with Prototyping shield and GY521" height="250" width="250"/><img src="https://github.com/amannirala13/Arduino-NodeJS-360-Video-Player/blob/main/pic2.jpeg" alt="Arduino with Prototyping shield and GY521" height="250" width="250"/><img src="https://github.com/amannirala13/Arduino-NodeJS-360-Video-Player/blob/main/pic3.jpeg" alt="Arduino with Prototyping shield and GY521" height="250" width="250"/>
 
