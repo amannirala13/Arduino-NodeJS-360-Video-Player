@@ -14,7 +14,7 @@ In this project, I created a 360 video player (currently playing a demo mp4 file
 # Build Arduino controller
 For making the arduino controller you need the Arduino development board and a ITG/MPU 3-axis Acc. and Gyro. sensor board (I am using GY-521 here). Follow the circuit diagram below to build your circuit.
 
-![Arduino and GY521 Circuit Diagram](gy521_circit.jpg)
+![Arduino and GY521 Circuit Diagram](gy521_circuit.JPG)
 
 # Build Server and Client script
 To build the server-side code, follow these steps:
