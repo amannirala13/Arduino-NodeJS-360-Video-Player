@@ -103,3 +103,6 @@ Finally,
 - Start your localhost with the index.html, the NodeJS server and arduino programmed and connected to the serial port.
 - Wait for the socket connection to establish.
 - Once that is done, you are ready to go.
+
+# Gallery
+
