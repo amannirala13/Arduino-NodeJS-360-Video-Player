@@ -75,11 +75,23 @@ To build the server-side code, follow these steps:
   npm run-script start
   ```
  
->> ***Note:*** The start command automatically builds the TS files as well, so you cant skip the build step and directly run the start command.
+> ***Note:*** The start command automatically builds the TS files as well, so you cant skip the build step and directly run the start command.
 
 ---
 
-For building the client, run the following command in the **www** folder:
+For building the **client**, do the following changes:
+
+Change the url for socket connection to local host as follows:
+
+`http://127.0.0.1:[socket port number]/[socket prefix]`
+
+For me it would be:
+```ts
+//socket connection from the server
+let sock = new SockJS("http://127.0.0.1:3000/arduino");
+```
+
+Once this is done, run the following command in the **www** folder:
 
 ```sh
 tsc
