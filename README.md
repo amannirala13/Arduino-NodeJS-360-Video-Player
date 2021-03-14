@@ -3,13 +3,18 @@ In this project, I created a 360 video player (currently playing a demo mp4 file
 
 # Requirements:
 - Arduino UNO
-- GY-521 Sensor module
+- ITG/MPU GY-521 Sensor module
 - USB-cable for serial connection between the development board and the computer
 - Arduino IDE and any other IDE for Arduino
 - NodeJS (v12.14.1 tested)
 - Typescript (v4.2.3 tested)
 - Localhost server for client
 - *A cup of coffee and a nice Spotify playlist*
+
+# Build Arduino controller
+For making the arduino controller you need the Arduino development board and a ITG/MPU 3-axis Acc. and Gyro. sensor board (I am using GY-521 here). Follow the circuit diagram below to build your circuit.
+
+![Arduino and GY521 Circuit Diagram](gy521_circit.jpg)
 
 # Build Server and Client script
 To build the server-side code, follow these steps:
