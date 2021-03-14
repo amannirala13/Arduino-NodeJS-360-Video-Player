@@ -11,7 +11,7 @@ In this project, I created a 360 video player (currently playing a demo mp4 file
 - Localhost server for client
 - *A cup of coffee and a nice Spotify playlist*
 
-# Build
+# Build Server and Client script
 To build the server-side code, follow these steps:
 - Download the repository and head to the **server** folder.
 - In the terminal type the following command to **install node modules**:
@@ -36,6 +36,13 @@ To build the server-side code, follow these steps:
 >> ***Note:*** The start command automatically builds the TS files as well, so you cant skip the build step and directly run the start command.
 
 ---
+
+For building the client, run the following command in the **www** folder:
+
+```sh
+tsc
+```
+Go though the generate JS files and remove the lines that are surrounded by the *remove comment block*
 
 Finally,
 
