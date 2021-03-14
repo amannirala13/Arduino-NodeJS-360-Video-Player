@@ -12,7 +12,7 @@ In this project, I created a 360 video player (currently playing a demo mp4 file
 - *A cup of coffee and a nice Spotify playlist*
 
 # Build
-TO build the server-side code, follow these steps:
+To build the server-side code, follow these steps:
 - Download the repository and head to the **server** folder.
 - In the terminal type the following command to **install node modules**:
   
@@ -35,3 +35,10 @@ TO build the server-side code, follow these steps:
  
 >> ***Note:*** The start command automatically builds the TS files as well, so you cant skip the build step and directly run the start command.
 
+---
+
+Finally,
+
+- Start your localhost with the index.html, the NodeJS server and arduino programmed and connected to the serial port.
+- Wait for the socket connection to establish.
+- Once that is done, you are ready to go.
