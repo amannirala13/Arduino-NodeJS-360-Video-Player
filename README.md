@@ -18,7 +18,7 @@ For making the arduino controller you need the Arduino development board and a I
 
 ![Arduino and GY521 Circuit Diagram](gy521_circuit.JPG)
 
-Once the cicruit is build, we need to pregram the micro-controller. [Download the script](https://github.com/amannirala13/Arduino-NodeJS-360-Video-Player/blob/main/arduino-script/AccGyrotemp/AccGyroTemp.ino) and open it in ArduinoIDE or any IDE of your choice and flash it to the arduino.
+Once the cicruit is build, we need to program the micro-controller. [Download the script](https://github.com/amannirala13/Arduino-NodeJS-360-Video-Player/blob/main/arduino-script/AccGyrotemp/AccGyroTemp.ino) and open it in ArduinoIDE or any IDE of your choice and flash it to the arduino.
 
 Now you can open up a serial console and check if your arduino is giving you the desired output or not. The output should look something like this:
 ```
