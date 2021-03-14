@@ -106,3 +106,5 @@ Finally,
 
 # Gallery
 
+![Arduino with Prototyping shield and GY521](pic1.JPEG)
+
