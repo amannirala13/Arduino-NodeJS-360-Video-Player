@@ -102,9 +102,9 @@ Go though the generate JS files and remove the lines that are surrounded by the 
 
 Finally,
 
-- Start your localhost with the index.html, the NodeJS server and arduino programmed and connected to the serial port.
+- Start your localhost with the index.html, make sure the NodeJS server is  running, arduino is programmed and connected to the serial port.
 - Wait for the socket connection to establish.
-- Once that is done, you are ready to go.
+- Once that is done, you are ready to go!
 
 # Gallery
 
