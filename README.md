@@ -7,7 +7,7 @@ In this project, I created a 360 video player (currently playing a demo mp4 file
 - Arduino UNO
 - ITG/MPU GY-521 Sensor module
 - USB-cable for serial connection between the development board and the computer
-- Arduino IDE and any other IDE for Arduino
+- Arduino IDE or any other IDE for Arduino
 - NodeJS (v12.14.1 tested)
 - Typescript (v4.2.3 tested)
 - Localhost server for client
